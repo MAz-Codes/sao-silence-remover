@@ -1,8 +1,8 @@
-# sao-silence-remover
+# Audio Fragment Silence Remover
 
 This Python script cleans generated audio files by trimming silence and applying fade-ins/outs, designed for live improvisation workflows. I made this script for the paper "Live Improvisation with Fine-Tuned Generative AI" in proceedings of NIME2025.
 
-For more please go to: www.misaghazimi.com/research/sao_improv
+For more please go to: www.misaghazimi.com/research/sao-improv
 
 ## Features
 
