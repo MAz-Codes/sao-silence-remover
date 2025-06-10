@@ -4,6 +4,8 @@ This Python script cleans generated audio files by trimming silence and applying
 
 For more please go to: www.misaghazimi.com/research/sao-improv
 
+You can either use this manually or import it as a module inside your stable-audio-tools generation process.
+
 ## Features
 
 - **Stereo & Mono Support:** Loads stereo (or mono) audio.
@@ -17,7 +19,7 @@ For more please go to: www.misaghazimi.com/research/sao-improv
 2. **Run the Script:** Execute the script using your Python interpreter.  
    Example:
    ````bash
-   python clean_audio_file_stereo.py```
+   python post_processing.py```
    ````
 
 ## Dependencies
