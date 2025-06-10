@@ -16,15 +16,15 @@ For more please go to: www.misaghazimi.com/research/sao-improv
 1. **Update Paths:** Modify the input and output paths in the script.
 2. **Run the Script:** Execute the script using your Python interpreter.
 
-   ````bash
-   python post_processing.py```
-   ````
+   ```bash
+   python post_processing.py
+   ```
 
 3. **Alternatively Import as a Module:** Inside your stable-audio-tools generation script.
 
-   ````bash
-   from post_processing import clean_audio_file_stereo```
-   ````
+   ```bash
+   from post_processing import clean_audio_file_stereo
+   ```
 
 ## Dependencies
 
